@@ -41,14 +41,7 @@ namespace CSharpTutorial
                 Name = "John",
                 Salary = 5500
             };
-            // I added the new customer reference obj
-
-            Customer c4 = new Customer()
-            {
-                Id = 119,
-                Name = "John",
-                Salary = 5500
-            };
+            
 
             List<Customer> customers = new List<Customer>(2);
             customers.Add(c1);
