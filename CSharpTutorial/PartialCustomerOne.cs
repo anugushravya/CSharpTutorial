@@ -12,7 +12,7 @@ namespace CSharpTutorial
 
         partial void SamplePartialMethod()
         {
-            Console.WriteLine("SamplePartialMethod Invoked");
+            Console.WriteLine("SamplePartialMethod Invoked"); //ADDED CONSOLE WRITE LINE
            
         }
 
